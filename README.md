@@ -1,0 +1,2 @@
+# newtemplate
+GitHub Pages
